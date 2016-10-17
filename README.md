@@ -1,7 +1,7 @@
 # hello-world
 tutorial
-
-# Hola
+##Esplicacion Practica 1
+##### Hola
 
 Soy _Juan Pedro_, tengo 22 años y vivo en Mallorca
 Actualmente trabajo de informático en una empresa de telecomunicaciones como administrador de equipos y diseñador de redes wifi
