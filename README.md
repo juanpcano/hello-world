@@ -1,6 +1,6 @@
 # hello-world
 tutorial
-##**_Esplicacion Practica 1_**
+##**_Explicación Práctica 1_**
 ##### **Hola**
 
 Soy _Juan Pedro_, tengo 22 años y vivo en Mallorca
