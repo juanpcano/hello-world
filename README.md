@@ -2,7 +2,7 @@
 tutorial
 ##**_Explicación Práctica 1_**
 ##### **Hola**
-
+_Me presento_.
 Soy _Juan Pedro_, tengo 22 años y vivo en Mallorca
 Actualmente trabajo de informático en una empresa de telecomunicaciones como administrador de equipos y diseñador de redes wifi.
 
